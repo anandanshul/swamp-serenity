@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Computer Architecture
+    - [[Computer Architecture]]
     - Design Requirements
     - Networking Basics
     - TCP and UDP
